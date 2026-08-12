@@ -1,4 +1,4 @@
-# Fraud Detection System for Mobile Money Transactions
+# Fraud Detection System for Financial Transactions
 
 ## 📌 Project Overview
 
